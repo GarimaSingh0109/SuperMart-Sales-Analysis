@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard (Power BI)
 
-![Sales Analysis Dashboard](./94604162-8ffb-477b-9e8e-86752efceac9.png)
+![Sales Analysis Dashboard](https://github.com/GarimaSingh0109/SuperMart-Sales-Analysis/blob/main/Screenshot%202025-07-26%20130938.png)
 
 ## 💼 Project Overview
 
